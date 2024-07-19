@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GitTM527
 - 👀 I’m interested in front-end dev and DevOps
-- 🌱 I’m currently learning CSS/JS
+- 🌱 I’m currently learning CSS/JS/React native/Firebase/Node.Js
 - 💞️ I’m looking to collaborate on Front-end development 
 - 📫 You can reach me on 09055456697
 
