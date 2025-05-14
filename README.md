@@ -19,9 +19,24 @@
 
 ---
 
+# 📊 AkhuemokhanETH Stats Summary  
+|    Overall     | High risk | Medium risk | Low Risks/Insight |
+| :------------: | :-------: | :---------: | :-------: |
+| 1 High/Medium | 0 High  | 1 Medium  |  0 Low  |
 
+---
+
+### 🔎 Audit Breakdown
+
+
+## ![Sherlock Image](https://github.com/user-attachments/assets/1efc8bdf-fa3c-436c-93b9-7fb0fc92574e) Sherlock.xyz
+
+
+| Contest  | High risk | Medium risk | Low risk | Link                                                                 |
+|----------|-----------|--------------|----------|----------------------------------------------------------------------|
+| Symmio, Staking and Vesting     | -         | 1            | -        | [838](https://audits.sherlock.xyz/contests/838)       |
 
 <!---
-GitTM527/GitTM527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitTM527/GitTM27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
