@@ -1,9 +1,9 @@
 # 👋 Hi there, I am AKHUEMOKHAN OLUWATOBILOBA @GitTM527
 
 # About Me
-- 👀 I am a UI Designer, Front-end Developer and Smart Contract Developer with keen interest in Security and Audit Research
-- 🌱 I currently audit across various protocols and I am learning Cairo/Starknet whilst I explore better ways to spot bugs before a protocol hits the mainnet
-- 💞️ I am looking to collaborate on Front-end development and Smart Contract Security and Audit Research
+- 👀 I’m a UI Designer, Front-end Developer, and Smart Contract Developer with a strong focus on Security and Audit Research.
+- 🔍 I actively audit protocols across various ecosystems, continuously exploring better ways to catch vulnerabilities before they reach mainnet. Currently diving into Cairo/Starknet.
+- 🚀 I’m open to collaborating on Front-end Development and Smart Contract Security/Auditing. Let’s build something secure and innovative together.
 - 📫 You can reach me on +2348138220008, Godsgeneralmartins@gmail.com
 
 ---
